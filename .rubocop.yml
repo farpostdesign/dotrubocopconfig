@@ -6,3 +6,6 @@ Style/MultilineOperationIndentation:
   Enabled: false
 Style/AlignParameters:
   Enabled: false
+AllCops:
+  Exclude:
+    - 'path/to/excluded/file.rb'
